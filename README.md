@@ -109,4 +109,3 @@ A synthetic regression dataset generated using Scikit-Learn for demonstrating pa
 ## 🏁 Conclusion
 
 Gradient Descent is a fundamental optimization algorithm used to train machine learning models. By implementing it step by step, this project builds a strong understanding of how models learn by minimizing prediction errors through iterative parameter updates.
-
